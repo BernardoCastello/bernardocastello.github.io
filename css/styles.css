@@ -23,6 +23,10 @@
     color: var(--main-color);
 }
 
+a:link {
+    text-decoration:none;
+    }
+
 /* Cointener */
 #container{
     display: flex;
