@@ -23,6 +23,11 @@
     color: var(--main-color);
 }
 
+.highlight_negrito{
+    color: var(--main-color);
+    font-weight: 800;
+}
+
 a:link {
     text-decoration:none;
     }
