@@ -85,6 +85,15 @@ a:link {
     padding-bottom: 25px;
 }
 
+#atualizado {
+    bottom: 0; /* Posiciona na parte inferior da página */
+    font-size: 12px; /* Define uma fonte menor */
+    text-align: center; /* Centraliza o texto dentro do elemento */
+    padding: 10px; /* (Opcional) Adiciona espaço interno */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* (Opcional) Adiciona uma sombra para destacar */
+}
+
+
 #social-container li {
     flex: 1 1 0;
     max-width: 60px;
